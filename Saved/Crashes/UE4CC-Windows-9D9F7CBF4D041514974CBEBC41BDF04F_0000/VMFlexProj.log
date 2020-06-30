@@ -1,0 +1,1449 @@
+﻿Log file open, 06/23/20 17:56:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VMFlexProj
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.410291
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin Blast
+LogPluginManager: Mounting plugin Flex
+LogPluginManager: Mounting plugin NvFlow
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.103s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-0
+LogInit: Engine Version: 4.21.2-0+++UE4+Release-4.21+GameWorks
+LogInit: Compatible Engine Version: 4.21.0-0+++UE4+Release-4.21+GameWorks
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 20 2020 18:04:38
+LogInit: Compiled with Visual C++: 19.26.28806.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/CProjects/UE/VirtualMateriality-Flex0lento/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../VMFlexProject/Saved/Config/Windows/Engine.ini]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2020.06.23-21.56.11:476][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../VMFlexProject/Saved/Config/Windows/Engine.ini]
+[2020.06.23-21.56.11:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../VMFlexProject/Saved/Config/Windows/Engine.ini]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../VMFlexProject/Saved/Config/Windows/Engine.ini]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.23-21.56.11:477][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.23-21.56.11:478][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.23-21.56.11:478][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.23-21.56.11:478][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../VMFlexProject/Saved/Config/Windows/Engine.ini]
+[2020.06.23-21.56.11:478][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [../../../VMFlexProject/Saved/Config/Windows/Engine.ini]
+[2020.06.23-21.56.11:487][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.23-21.56.11:487][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.23-21.56.11:488][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:488][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.23-21.56.11:489][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.23-21.56.11:489][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.23-21.56.11:489][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.23-21.56.11:495][  0]LogHAL: Display: Platform has ~ 24 GB [25699622912 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.06.23-21.56.11:495][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.23-21.56.11:495][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.23-21.56.11:495][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.23-21.56.11:496][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../VMFlexProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.23-21.56.11:497][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.23-21.56.11:497][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../VMFlexProject/Saved/Config/Windows/Engine.ini]
+[2020.06.23-21.56.11:497][  0]LogInit: Computer: DESKTOP-UIKI5L6
+[2020.06.23-21.56.11:497][  0]LogInit: User: Joss
+[2020.06.23-21.56.11:497][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.06.23-21.56.11:497][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.23-21.56.11:498][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.06.23-21.56.11:498][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.23-21.56.11:498][  0]LogMemory: Process Physical Memory: 110.77 MB used, 110.78 MB peak
+[2020.06.23-21.56.11:498][  0]LogMemory: Process Virtual Memory: 97.58 MB used, 97.58 MB peak
+[2020.06.23-21.56.11:498][  0]LogMemory: Physical Memory: 9386.51 MB used,  15122.56 MB free, 24509.07 MB total
+[2020.06.23-21.56.11:498][  0]LogMemory: Virtual Memory: 4657.10 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.06.23-21.56.11:519][  0]LogInit: Using OS detected language (en-GB).
+[2020.06.23-21.56.11:519][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.23-21.56.11:520][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.06.23-21.56.11:819][  0]LogStreaming: Display: Took  0.300s to InitEngineTextLocalization.
+[2020.06.23-21.56.11:819][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.23-21.56.11:864][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.23-21.56.11:864][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.23-21.56.12:085][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.23-21.56.12:131][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.06.23-21.56.12:131][  0]LogD3D11RHI:       8088/0/12254 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.23-21.56.12:133][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.23-21.56.12:133][  0]LogD3D11RHI:       0/0/12254 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.23-21.56.12:133][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.23-21.56.12:140][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.23-21.56.12:141][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.23-21.56.12:141][  0]LogWindows: EnumDisplayDevices:
+[2020.06.23-21.56.12:141][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.06.23-21.56.12:141][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.06.23-21.56.12:141][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.23-21.56.12:142][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.23-21.56.12:142][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.23-21.56.12:142][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.06.23-21.56.12:142][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.06.23-21.56.12:142][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.06.23-21.56.12:142][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.06.23-21.56.12:178][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.23-21.56.12:189][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.23-21.56.12:191][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2020.06.23-21.56.12:195][  0]LogD3D11RHI: HBAO+ 4.0.0.23740451
+[2020.06.23-21.56.12:249][  0]LogD3D11RHI: VXGI: Version 2.0.1.24257052
+[2020.06.23-21.56.12:251][  0]LogHairWorks: Display: HairWorks SDK initialized OK
+[2020.06.23-21.56.12:497][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.06.23-21.56.12:507][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.06.23-21.56.12:518][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.06.23-21.56.12:529][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.06.23-21.56.12:541][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.06.23-21.56.12:552][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.06.23-21.56.12:563][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.06.23-21.56.12:575][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.06.23-21.56.12:581][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.23-21.56.12:631][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.06.23-21.56.12:684][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.23-21.56.12:684][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.23-21.56.12:699][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.23-21.56.12:699][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.23-21.56.12:727][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.06.23-21.56.12:727][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.06.23-21.56.12:727][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.23-21.56.12:862][  0]LogFlex: Display: Initialized Flex with GPU: NVIDIA GeForce GTX 1070
+[2020.06.23-21.56.12:862][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (../../../VMFlexProject/Intermediate/Shaders/WorkingDirectory/22612/).
+[2020.06.23-21.56.12:862][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Joss/AppData/Local/Temp/UnrealShaderWorkingDir/9BC5A5D6436F4E705ABFFCB3A5A5189B/'.
+[2020.06.23-21.56.12:868][  0]LogXGEController: Cleaning working directory: C:/Users/Joss/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.23-21.56.12:868][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.23-21.56.12:868][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.23-21.56.12:868][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.23-21.56.13:359][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.23-21.56.13:539][  0]LogDerivedDataCache: Loaded boot cache 0.18s 74MB ../../../VMFlexProject/DerivedDataCache/Boot.ddc.
+[2020.06.23-21.56.13:539][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../VMFlexProject/DerivedDataCache/Boot.ddc
+[2020.06.23-21.56.13:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../VMFlexProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.23-21.56.13:539][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.23-21.56.13:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.23-21.56.13:539][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2020.06.23-21.56.13:552][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2020.06.23-21.56.13:552][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.23-21.56.13:552][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.23-21.56.13:574][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.23-21.56.13:575][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.23-21.56.13:576][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.23-21.56.13:659][  0]LogAssetRegistry: FAssetRegistry took 0.0300 seconds to start up
+[2020.06.23-21.56.13:897][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.23-21.56.14:005][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.23-21.56.14:005][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.23-21.56.14:005][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.06.23-21.56.14:005][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.23-21.56.14:005][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.23-21.56.14:090][  0]LogNetVersion: VMFlexProj 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 231333957)
+[2020.06.23-21.56.14:566][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.070048 seconds
+[2020.06.23-21.56.14:573][  0]LogUObjectArray: 40517 objects as part of root set at end of initial load.
+[2020.06.23-21.56.14:573][  0]LogUObjectAllocator: 7078784 out of 0 bytes used by permanent object pool.
+[2020.06.23-21.56.14:573][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.23-21.56.15:053][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.23-21.56.15:053][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.23-21.56.15:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.23-21.56.15:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.15:055][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.15:055][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.15:056][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.23-21.56.15:056][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.23-21.56.15:056][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:056][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:056][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:056][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:056][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.23-21.56.15:056][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.23-21.56.15:056][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:056][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:056][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:056][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:056][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2020.06.23-21.56.15:056][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:057][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:057][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.23-21.56.15:058][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:058][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:059][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:059][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:060][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2020.06.23-21.56.15:060][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:060][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:060][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2020.06.23-21.56.15:060][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:060][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:060][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2020.06.23-21.56.15:060][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:060][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.15:060][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.15:523][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.23-21.56.15:537][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.23-21.56.16:081][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.23-21.56.16:081][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.23-21.56.16:081][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.16:081][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.16:081][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.16:081][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.16:081][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.23-21.56.16:081][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.23-21.56.16:081][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.16:081][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.16:081][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.16:081][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.23-21.56.16:082][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.16:082][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.16:083][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.16:083][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.16:083][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.23-21.56.16:083][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.23-21.56.16:083][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.16:083][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.16:083][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.23-21.56.16:083][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.23-21.56.16:083][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.23-21.56.16:083][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.23-21.56.16:083][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:083][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:084][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.06.23-21.56.16:084][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:085][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:085][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.06.23-21.56.16:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:087][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.23-21.56.16:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.23-21.56.16:212][  0]SourceControl: Source control is disabled
+[2020.06.23-21.56.16:212][  0]SourceControl: Source control is disabled
+[2020.06.23-21.56.16:213][  0]SourceControl: Source control is disabled
+[2020.06.23-21.56.16:214][  0]SourceControl: Source control is disabled
+[2020.06.23-21.56.16:390][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.23-21.56.16:646][  0]LogOcInput: OculusInput pre-init called
+[2020.06.23-21.56.16:777][  0]LogEngine: Initializing Engine...
+[2020.06.23-21.56.16:777][  0]LogHMD: Oculus plugin initialized. Version: 4.21.2-0+++UE4+Release-4.21+GameWorks, OVRPlugin: 1.28.0
+[2020.06.23-21.56.16:778][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.06.23-21.56.16:778][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.23-21.56.16:778][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.06.23-21.56.16:778][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.23-21.56.17:007][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.23-21.56.17:048][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.23-21.56.17:160][  0]LogInit: XAudio2 using 'BenQ EX2780Q (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.23-21.56.17:185][  0]LogInit: FAudioDevice initialized.
+[2020.06.23-21.56.17:185][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.23-21.56.17:257][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB ../../../VMFlexProject/DerivedDataCache/Boot.ddc.
+[2020.06.23-21.56.17:262][  0]LogInit: Texture streaming: Enabled
+[2020.06.23-21.56.17:332][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.23-21.56.17:364][  0]LogInit: Transaction tracking system initialized
+[2020.06.23-21.56.17:464][  0]BlueprintLog: New page: Editor Load
+[2020.06.23-21.56.17:808][  0]LocalizationService: Localization service is disabled
+[2020.06.23-21.56.18:416][  0]LogFileCache: Scanning file cache for directory 'C:/CProjects/UE/VirtualMateriality-Flex0lento/VMFlexProject/Content/' took 0.02s
+[2020.06.23-21.56.18:416][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.23-21.56.18:416][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.23-21.56.18:417][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.06.23-21.56.18:417][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.06.23-21.56.18:417][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.23-21.56.18:417][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.06.23-21.56.18:417][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.23-21.56.18:856][  0]SourceControl: Source control is disabled
+[2020.06.23-21.56.18:856][  0]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-21.56.18:857][  0]LightingResults: New page: Lighting Build
+[2020.06.23-21.56.18:863][  0]MapCheck: New page: Map Check
+[2020.06.23-21.56.18:863][  0]LightingResults: New page: Lighting Build
+[2020.06.23-21.56.19:673][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.06.23-21.56.19:695][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-21.56.19:723][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-21.56.19:723][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.22ms to complete.
+[2020.06.23-21.56.19:723][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.868
+[2020.06.23-21.56.19:857][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-21.56.19:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-21.56.19:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-21.56.19:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-21.56.19:901][  0]LogCollectionManager: Loaded 0 collections in 0.003353 seconds
+[2020.06.23-21.56.19:923][  0]LogFileCache: Scanning file cache for directory 'C:/CProjects/UE/VirtualMateriality-Flex0lento/VMFlexProject/Saved/Collections/' took 0.01s
+[2020.06.23-21.56.19:924][  0]LogFileCache: Scanning file cache for directory 'C:/CProjects/UE/VirtualMateriality-Flex0lento/VMFlexProject/Content/Developers/Joss/Collections/' took 0.00s
+[2020.06.23-21.56.19:924][  0]LogFileCache: Scanning file cache for directory 'C:/CProjects/UE/VirtualMateriality-Flex0lento/VMFlexProject/Content/Collections/' took 0.00s
+[2020.06.23-21.56.19:924][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.06.23-21.56.19:932][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2734 classes and 637 folders.
+[2020.06.23-21.56.19:943][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.23-21.56.19:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:972][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:978][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:989][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.19:993][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.23-21.56.20:089][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.23-21.56.20:110][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.06.23-21.56.22:974][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VMFlexProj
+[2020.06.23-21.56.22:975][  0]LogTemp: CWD: C:\CProjects\UE\VirtualMateriality-Flex0lento\Engine\Binaries\DotNET\IOS
+[2020.06.23-21.56.22:975][  0]LogTemp: Initial Dir: C:\CProjects\UE\VirtualMateriality-Flex0lento
+[2020.06.23-21.56.22:975][  0]LogTemp: Env CWD: C:\CProjects\UE\VirtualMateriality-Flex0lento\Engine\Binaries\DotNET\IOS
+[2020.06.23-21.56.22:975][  0]LogTemp: BranchPath = DESKTOP-UIKI5L6/C/CProjects/UE/VirtualMateriality-Flex0lento/Engine/Binaries --- GameBranchPath = DESKTOP-UIKI5L6/C/CProjects/UE/VirtualMateriality-Flex0lento/Engine/Binaries
+[2020.06.23-21.56.22:975][  0]LogSlate: Took 0.000751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.23-21.56.22:980][  0]LogSlate: Took 0.000859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.23-21.56.22:985][  0]LogSlate: Took 0.000821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.23-21.56.23:062][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Joss\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.06.23-21.56.23:062][  0]LogRenderer: Reallocating scene render targets to support 1900x896 Format 10 NumSamples 1 (Frame:1).
+[2020.06.23-21.56.23:074][  0]LogFlow: Display: NvFlow Context Init
+[2020.06.23-21.56.23:284][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.23-21.56.23:285][  0]LogLoad: (Engine Initialization) Total time: 13.84 seconds
+[2020.06.23-21.56.23:285][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.23-21.56.23:298][  0]LogOcInput: OculusInput is initialized
+[2020.06.23-21.56.23:317][  0]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.BendyTool_C_0.PhysicsConstraint4' attempting to create a joint between objects that are both static.  No joint created.
+[2020.06.23-21.56.23:317][  0]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.BendyTool_C_0.PhysicsConstraint3' attempting to create a joint between objects that are both static.  No joint created.
+[2020.06.23-21.56.23:317][  0]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.BendyTool_C_0.PhysicsConstraint2' attempting to create a joint between objects that are both static.  No joint created.
+[2020.06.23-21.56.23:318][  0]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.BendyTool_C_0.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2020.06.23-21.56.23:318][  0]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.BendyTool_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.06.23-21.56.23:371][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.23-21.56.23:624][  3]LogAssetRegistry: Asset discovery search completed in 9.9869 seconds
+[2020.06.23-21.56.23:626][  3]LogFlexEditor: FFlexEditorModule::OnFilesLoaded() ProjectFilePath = '../../../VMFlexProject/VMFlexProj.uproject'
+[2020.06.23-21.56.23:626][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000009 seconds (found 0 objects)
+[2020.06.23-21.56.23:626][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2020.06.23-21.56.24:391][ 53]LogSlate: Took 0.001102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.23-21.57.50:122][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.57.51:120][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.57.56:043][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.58.08:695][751]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.06.23-21.58.08:695][751]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2020.06.23-21.58.08:695][751]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.06.23-21.58.08:695][751]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.06.23-21.58.08:695][751]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.06.23-21.58.08:696][751]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2020.06.23-21.58.08:696][751]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2020.06.23-21.58.08:696][751]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.06.23-21.58.08:696][751]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.06.23-21.58.08:696][751]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.06.23-21.58.08:696][751]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.06.23-21.58.08:696][751]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X128)
+[2020.06.23-21.58.08:696][751]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2020.06.23-21.58.08:719][751]LogAIModule: Creating AISystem for world flexLandscapeTestMap
+[2020.06.23-21.58.08:735][751]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/flexLandscapeTestMap.flexLandscapeTestMap
+[2020.06.23-21.58.08:759][751]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/flexLandscapeTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-21.58.08:759][751]LightingResults: New page: Lighting Build
+[2020.06.23-21.58.08:760][751]LoadErrors: New page: Loading map: flexLandscapeTestMap.umap
+[2020.06.23-21.58.08:762][751]MapCheck: New page: Map Check
+[2020.06.23-21.58.08:762][751]LightingResults: New page: Lighting Build
+[2020.06.23-21.58.08:793][751]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-21.58.08:832][751]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-21.58.08:832][751]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2020.06.23-21.58.08:832][751]LogFileHelpers: Loading map 'flexLandscapeTestMap' took 0.074
+[2020.06.23-21.58.19:846][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.58.20:092][700]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.06.23-21.58.20:092][700]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.06.23-21.58.20:093][700]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.06.23-21.58.20:093][700]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2020.06.23-21.58.20:093][700]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.06.23-21.58.20:093][700]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.06.23-21.58.20:093][700]LogStaticMesh: Building static mesh flexInvertedTorus...
+[2020.06.23-21.58.20:107][700]LogStaticMesh: Built static mesh [0.02s] /Game/TestPackages/Flex/flexInvertedTorus.flexInvertedTorus
+[2020.06.23-21.58.20:151][700]LogStaticMesh: Building static mesh flexOpenCylinder...
+[2020.06.23-21.58.20:154][700]LogStaticMesh: Built static mesh [0.00s] /Game/TestPackages/Flex/flexOpenCylinder.flexOpenCylinder
+[2020.06.23-21.58.20:173][700]LogAIModule: Creating AISystem for world flexLocalizedFluidTestMap
+[2020.06.23-21.58.20:180][700]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap
+[2020.06.23-21.58.20:202][700]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/flexLocalizedFluidTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-21.58.20:202][700]LightingResults: New page: Lighting Build
+[2020.06.23-21.58.20:202][700]LoadErrors: New page: Loading map: flexLocalizedFluidTestMap.umap
+[2020.06.23-21.58.20:205][700]MapCheck: New page: Map Check
+[2020.06.23-21.58.20:205][700]LightingResults: New page: Lighting Build
+[2020.06.23-21.58.20:228][700]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-21.58.20:264][700]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-21.58.20:265][700]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2020.06.23-21.58.20:265][700]LogFileHelpers: Loading map 'flexLocalizedFluidTestMap' took 0.063
+[2020.06.23-21.58.24:483][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.23-21.58.25:286][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel.flexLocalizedFluidTestMap' with GeneratedClass '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap_C' with ClassGeneratedBy '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel.flexLocalizedFluidTestMap'
+[2020.06.23-21.58.25:287][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.23-21.58.25:288][278]PIE: New page: SIE session: flexLocalizedFluidTestMap (Jun 23, 2020, 1:58:25 PM)
+[2020.06.23-21.58.25:302][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_flexLocalizedFluidTestMap
+[2020.06.23-21.58.25:322][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019932s)
+[2020.06.23-21.58.25:323][278]LogAIModule: Creating AISystem for world flexLocalizedFluidTestMap
+[2020.06.23-21.58.25:323][278]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2020.06.23-21.58.25:323][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap to /Game/Maps/UEDPIE_0_flexLocalizedFluidTestMap.flexLocalizedFluidTestMap (0.021138s)
+[2020.06.23-21.58.25:434][278]LogInit: XAudio2 using 'BenQ EX2780Q (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.23-21.58.25:448][278]LogInit: FAudioDevice initialized.
+[2020.06.23-21.58.25:451][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.23-21.58.25:500][278]LogLoad: Game class is 'MyGame_C'
+[2020.06.23-21.58.25:505][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_flexLocalizedFluidTestMap.flexLocalizedFluidTestMap up for play (max tick rate 0) at 2020.06.23-17.58.25
+[2020.06.23-21.58.25:508][278]LogFlex: Display: Creating FLEX container: flexLocalContainer
+[2020.06.23-21.58.25:513][278]LogWorld: Bringing up level for play took: 0.008696
+[2020.06.23-21.58.25:541][278]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.06.23-21.58.25:541][278]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-21.58.25:542][278]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-21.58.25:543][278]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_flexLocalizedFluidTestMap 1.051
+[2020.06.23-21.58.25:552][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel.flexLocalizedFluidTestMap' with GeneratedClass '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap_C' with ClassGeneratedBy '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel.flexLocalizedFluidTestMap'
+[2020.06.23-21.58.33:161][135]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.23-21.58.35:299][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.23-21.58.36:622][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.58.36:736][519]LogFlex: Display: Creating FLEX container: flexSoftContainer
+[2020.06.23-21.58.36:755][519]LogGameMode: GameMode returned ReadyToStartMatch
+[2020.06.23-21.58.36:755][519]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.06.23-21.58.36:755][519]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.06.23-21.59.26:691][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel.flexLocalizedFluidTestMap' with GeneratedClass '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap_C' with ClassGeneratedBy '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel.flexLocalizedFluidTestMap'
+[2020.06.23-21.59.26:694][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-21.59.26:731][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.23-21.59.26:731][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel.flexLocalizedFluidTestMap' with GeneratedClass '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap_C' with ClassGeneratedBy '/Game/Maps/flexLocalizedFluidTestMap.flexLocalizedFluidTestMap:PersistentLevel.flexLocalizedFluidTestMap'
+[2020.06.23-21.59.26:753][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-21.59.26:754][506]LogFlex: Display: Destroying a FLEX system for..
+[2020.06.23-21.59.26:754][506]LogFlex: Display: Destroying a FLEX system for..
+[2020.06.23-21.59.26:801][508]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.06.23-21.59.29:982][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.59.30:318][897]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.06.23-21.59.30:318][897]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.06.23-21.59.30:318][897]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.06.23-21.59.30:318][897]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.06.23-21.59.30:318][897]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2020.06.23-21.59.30:318][897]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.06.23-21.59.30:318][897]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X512)
+[2020.06.23-21.59.30:318][897]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.06.23-21.59.30:318][897]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.06.23-21.59.30:334][897]LogAIModule: Creating AISystem for world flexLocalizedSoftTestMap
+[2020.06.23-21.59.30:339][897]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap
+[2020.06.23-21.59.30:362][897]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/flexLocalizedSoftTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-21.59.30:362][897]LightingResults: New page: Lighting Build
+[2020.06.23-21.59.30:363][897]LoadErrors: New page: Loading map: flexLocalizedSoftTestMap.umap
+[2020.06.23-21.59.30:363][897]MapCheck: New page: Map Check
+[2020.06.23-21.59.30:363][897]LightingResults: New page: Lighting Build
+[2020.06.23-21.59.30:388][897]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-21.59.30:423][897]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-21.59.30:423][897]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2020.06.23-21.59.30:423][897]LogFileHelpers: Loading map 'flexLocalizedSoftTestMap' took 0.061
+[2020.06.23-21.59.32:488][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.59.32:596][128]LogTemp: Repeating last play command: Simulate
+[2020.06.23-21.59.32:605][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel.flexLocalizedSoftTestMap' with GeneratedClass '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap_C' with ClassGeneratedBy '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel.flexLocalizedSoftTestMap'
+[2020.06.23-21.59.32:605][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.23-21.59.32:605][128]PIE: New page: SIE session: flexLocalizedSoftTestMap (Jun 23, 2020, 1:59:32 PM)
+[2020.06.23-21.59.32:605][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_flexLocalizedSoftTestMap
+[2020.06.23-21.59.32:624][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019259s)
+[2020.06.23-21.59.32:624][128]LogAIModule: Creating AISystem for world flexLocalizedSoftTestMap
+[2020.06.23-21.59.32:624][128]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2020.06.23-21.59.32:625][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap to /Game/Maps/UEDPIE_0_flexLocalizedSoftTestMap.flexLocalizedSoftTestMap (0.020135s)
+[2020.06.23-21.59.32:731][128]LogInit: XAudio2 using 'BenQ EX2780Q (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.23-21.59.32:745][128]LogInit: FAudioDevice initialized.
+[2020.06.23-21.59.32:775][128]LogLoad: Game class is 'MyGame_C'
+[2020.06.23-21.59.32:776][128]LogFlex: Display: Creating FLEX container: flexSoftContainer
+[2020.06.23-21.59.32:788][128]LogFlex: Display: Creating FLEX container: flexClothContainer
+[2020.06.23-21.59.32:801][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_flexLocalizedSoftTestMap.flexLocalizedSoftTestMap up for play (max tick rate 0) at 2020.06.23-17.59.32
+[2020.06.23-21.59.32:801][128]LogWorld: Bringing up level for play took: 0.025297
+[2020.06.23-21.59.32:813][128]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-21.59.32:813][128]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-21.59.32:814][128]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_flexLocalizedSoftTestMap 0.322
+[2020.06.23-21.59.32:815][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel.flexLocalizedSoftTestMap' with GeneratedClass '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap_C' with ClassGeneratedBy '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel.flexLocalizedSoftTestMap'
+[2020.06.23-21.59.37:376][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.59.37:507][613]LogGameMode: GameMode returned ReadyToStartMatch
+[2020.06.23-21.59.37:507][613]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.06.23-21.59.37:507][613]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.06.23-21.59.52:896][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel.flexLocalizedSoftTestMap' with GeneratedClass '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap_C' with ClassGeneratedBy '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel.flexLocalizedSoftTestMap'
+[2020.06.23-21.59.52:896][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-21.59.52:932][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.23-21.59.52:933][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel.flexLocalizedSoftTestMap' with GeneratedClass '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap_C' with ClassGeneratedBy '/Game/Maps/flexLocalizedSoftTestMap.flexLocalizedSoftTestMap:PersistentLevel.flexLocalizedSoftTestMap'
+[2020.06.23-21.59.52:953][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-21.59.52:954][458]LogFlex: Display: Destroying a FLEX system for..
+[2020.06.23-21.59.52:954][458]LogFlex: Display: Destroying a FLEX system for..
+[2020.06.23-21.59.53:006][460]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.06.23-21.59.55:586][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.59.55:920][787]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.06.23-21.59.55:920][787]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.06.23-21.59.55:921][787]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.06.23-21.59.55:921][787]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.06.23-21.59.55:921][787]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2020.06.23-21.59.55:921][787]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.06.23-21.59.55:921][787]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.06.23-21.59.55:921][787]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.06.23-21.59.55:921][787]LogStaticMesh: Building static mesh flexRockD...
+[2020.06.23-21.59.55:921][787]LogStaticMesh: Built static mesh [0.00s] /Game/TestPackages/Flex/flexRockD.flexRockD
+[2020.06.23-21.59.55:924][787]LogStaticMesh: Building static mesh flexRockC...
+[2020.06.23-21.59.55:925][787]LogStaticMesh: Built static mesh [0.00s] /Game/TestPackages/Flex/flexRockC.flexRockC
+[2020.06.23-21.59.55:928][787]LogStaticMesh: Building static mesh flexSandCastle...
+[2020.06.23-21.59.55:930][787]LogStaticMesh: Built static mesh [0.00s] /Game/TestPackages/Flex/flexSandCastle.flexSandCastle
+[2020.06.23-21.59.55:956][787]LogStaticMesh: Building static mesh flexRockA...
+[2020.06.23-21.59.55:958][787]LogStaticMesh: Built static mesh [0.00s] /Game/TestPackages/Flex/flexRockA.flexRockA
+[2020.06.23-21.59.55:962][787]LogStaticMesh: Building static mesh flexRockB...
+[2020.06.23-21.59.55:963][787]LogStaticMesh: Built static mesh [0.00s] /Game/TestPackages/Flex/flexRockB.flexRockB
+[2020.06.23-21.59.55:966][787]LogAIModule: Creating AISystem for world flexSandTestMap
+[2020.06.23-21.59.55:972][787]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/flexSandTestMap.flexSandTestMap
+[2020.06.23-21.59.55:994][787]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/flexSandTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-21.59.55:995][787]LightingResults: New page: Lighting Build
+[2020.06.23-21.59.55:995][787]LoadErrors: New page: Loading map: flexSandTestMap.umap
+[2020.06.23-21.59.55:996][787]MapCheck: New page: Map Check
+[2020.06.23-21.59.55:996][787]LightingResults: New page: Lighting Build
+[2020.06.23-21.59.56:019][787]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-21.59.56:053][787]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-21.59.56:054][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2020.06.23-21.59.56:054][787]LogFileHelpers: Loading map 'flexSandTestMap' took 0.058
+[2020.06.23-21.59.57:438][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-21.59.57:546][960]LogTemp: Repeating last play command: Simulate
+[2020.06.23-21.59.57:554][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel.flexSandTestMap' with GeneratedClass '/Game/Maps/flexSandTestMap.flexSandTestMap_C' with ClassGeneratedBy '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel.flexSandTestMap'
+[2020.06.23-21.59.57:554][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.23-21.59.57:554][960]PIE: New page: SIE session: flexSandTestMap (Jun 23, 2020, 1:59:57 PM)
+[2020.06.23-21.59.57:554][960]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_flexSandTestMap
+[2020.06.23-21.59.57:575][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019848s)
+[2020.06.23-21.59.57:575][960]LogAIModule: Creating AISystem for world flexSandTestMap
+[2020.06.23-21.59.57:576][960]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2020.06.23-21.59.57:576][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/flexSandTestMap.flexSandTestMap to /Game/Maps/UEDPIE_0_flexSandTestMap.flexSandTestMap (0.020879s)
+[2020.06.23-21.59.57:681][960]LogInit: XAudio2 using 'BenQ EX2780Q (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.23-21.59.57:693][960]LogInit: FAudioDevice initialized.
+[2020.06.23-21.59.57:725][960]LogLoad: Game class is 'MyGame_C'
+[2020.06.23-21.59.57:726][960]LogFlex: Display: Creating FLEX container: flexSandContainer
+[2020.06.23-21.59.57:741][960]LogWorld: Bringing World /Game/Maps/UEDPIE_0_flexSandTestMap.flexSandTestMap up for play (max tick rate 0) at 2020.06.23-17.59.57
+[2020.06.23-21.59.57:741][960]LogWorld: Bringing up level for play took: 0.015007
+[2020.06.23-21.59.57:753][960]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-21.59.57:753][960]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-21.59.57:754][960]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_flexSandTestMap -0.738
+[2020.06.23-21.59.57:755][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel.flexSandTestMap' with GeneratedClass '/Game/Maps/flexSandTestMap.flexSandTestMap_C' with ClassGeneratedBy '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel.flexSandTestMap'
+[2020.06.23-22.00.04:240][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.00.04:341][718]LogFlex: Display: Creating FLEX container: flexSoftContainer
+[2020.06.23-22.00.04:354][718]LogGameMode: GameMode returned ReadyToStartMatch
+[2020.06.23-22.00.04:354][718]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.06.23-22.00.04:354][718]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.06.23-22.00.06:495][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel.flexSandTestMap' with GeneratedClass '/Game/Maps/flexSandTestMap.flexSandTestMap_C' with ClassGeneratedBy '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel.flexSandTestMap'
+[2020.06.23-22.00.06:495][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-22.00.06:526][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.23-22.00.06:527][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel.flexSandTestMap' with GeneratedClass '/Game/Maps/flexSandTestMap.flexSandTestMap_C' with ClassGeneratedBy '/Game/Maps/flexSandTestMap.flexSandTestMap:PersistentLevel.flexSandTestMap'
+[2020.06.23-22.00.06:549][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-22.00.06:549][961]LogFlex: Display: Destroying a FLEX system for..
+[2020.06.23-22.00.06:550][961]LogFlex: Display: Destroying a FLEX system for..
+[2020.06.23-22.00.06:601][963]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.06.23-22.00.09:363][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.00.22:498][812]LogAIModule: Creating AISystem for world flexSoftTestMap
+[2020.06.23-22.00.22:504][812]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/flexSoftTestMap.flexSoftTestMap
+[2020.06.23-22.00.22:526][812]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/flexSoftTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.00.22:526][812]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.22:526][812]LoadErrors: New page: Loading map: flexSoftTestMap.umap
+[2020.06.23-22.00.22:527][812]MapCheck: New page: Map Check
+[2020.06.23-22.00.22:527][812]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.22:553][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.00.22:588][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.00.22:588][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2020.06.23-22.00.22:588][812]LogFileHelpers: Loading map 'flexSoftTestMap' took 0.062
+[2020.06.23-22.00.24:138][984]LogAIModule: Creating AISystem for world flexStreamingSubLevelTestMap
+[2020.06.23-22.00.24:142][984]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/flexStreamingSubLevelTestMap.flexStreamingSubLevelTestMap
+[2020.06.23-22.00.24:163][984]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/flexStreamingSubLevelTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.00.24:163][984]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.24:163][984]LoadErrors: New page: Loading map: flexStreamingSubLevelTestMap.umap
+[2020.06.23-22.00.24:164][984]MapCheck: New page: Map Check
+[2020.06.23-22.00.24:164][984]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.24:187][984]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.00.24:222][984]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.00.24:222][984]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2020.06.23-22.00.24:223][984]LogFileHelpers: Loading map 'flexStreamingSubLevelTestMap' took 0.060
+[2020.06.23-22.00.26:955][304]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.06.23-22.00.26:955][304]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.06.23-22.00.26:955][304]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2020.06.23-22.00.26:955][304]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.06.23-22.00.26:955][304]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.06.23-22.00.26:955][304]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.06.23-22.00.26:955][304]LogSkeletalMesh: Building Skeletal Mesh HeroRagdoll...
+[2020.06.23-22.00.26:963][304]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Character/HeroRagdoll.HeroRagdoll
+[2020.06.23-22.00.26:968][304]LogAIModule: Creating AISystem for world flexRagdollTest
+[2020.06.23-22.00.26:972][304]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/flexRagdollTest.flexRagdollTest
+[2020.06.23-22.00.26:993][304]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/flexRagdollTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.00.26:993][304]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.26:994][304]LoadErrors: New page: Loading map: flexRagdollTest.umap
+[2020.06.23-22.00.26:994][304]MapCheck: New page: Map Check
+[2020.06.23-22.00.26:994][304]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.27:018][304]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.00.27:056][304]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.00.27:056][304]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2020.06.23-22.00.27:057][304]LogFileHelpers: Loading map 'flexRagdollTest' took 0.063
+[2020.06.23-22.00.28:410][463]LogTemp: Repeating last play command: Simulate
+[2020.06.23-22.00.28:417][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel.flexRagdollTest' with GeneratedClass '/Game/Maps/flexRagdollTest.flexRagdollTest_C' with ClassGeneratedBy '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel.flexRagdollTest'
+[2020.06.23-22.00.28:417][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.23-22.00.28:417][463]PIE: New page: SIE session: flexRagdollTest (Jun 23, 2020, 2:00:28 PM)
+[2020.06.23-22.00.28:417][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_flexRagdollTest
+[2020.06.23-22.00.28:419][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001951s)
+[2020.06.23-22.00.28:420][463]LogAIModule: Creating AISystem for world flexRagdollTest
+[2020.06.23-22.00.28:420][463]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2020.06.23-22.00.28:420][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/flexRagdollTest.flexRagdollTest to /Game/Maps/UEDPIE_0_flexRagdollTest.flexRagdollTest (0.002798s)
+[2020.06.23-22.00.28:529][463]LogInit: XAudio2 using 'BenQ EX2780Q (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.23-22.00.28:541][463]LogInit: FAudioDevice initialized.
+[2020.06.23-22.00.28:573][463]LogLoad: Game class is 'MyGame_C'
+[2020.06.23-22.00.28:574][463]LogFlex: Display: Creating FLEX container: flexSoftContainer
+[2020.06.23-22.00.28:582][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_flexRagdollTest.flexRagdollTest up for play (max tick rate 0) at 2020.06.23-18.00.28
+[2020.06.23-22.00.28:582][463]LogWorld: Bringing up level for play took: 0.008415
+[2020.06.23-22.00.28:594][463]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-22.00.28:594][463]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-22.00.28:595][463]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_flexRagdollTest 0.103
+[2020.06.23-22.00.28:596][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel.flexRagdollTest' with GeneratedClass '/Game/Maps/flexRagdollTest.flexRagdollTest_C' with ClassGeneratedBy '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel.flexRagdollTest'
+[2020.06.23-22.00.34:123][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel.flexRagdollTest' with GeneratedClass '/Game/Maps/flexRagdollTest.flexRagdollTest_C' with ClassGeneratedBy '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel.flexRagdollTest'
+[2020.06.23-22.00.34:123][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-22.00.34:150][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.23-22.00.34:151][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel.flexRagdollTest' with GeneratedClass '/Game/Maps/flexRagdollTest.flexRagdollTest_C' with ClassGeneratedBy '/Game/Maps/flexRagdollTest.flexRagdollTest:PersistentLevel.flexRagdollTest'
+[2020.06.23-22.00.34:171][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-22.00.34:171][125]LogFlex: Display: Destroying a FLEX system for..
+[2020.06.23-22.00.34:224][131]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.06.23-22.00.35:875][316]LogAIModule: Creating AISystem for world flexRigidTestMap
+[2020.06.23-22.00.35:881][316]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/flexRigidTestMap.flexRigidTestMap
+[2020.06.23-22.00.35:903][316]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/flexRigidTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.00.35:903][316]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.35:903][316]LoadErrors: New page: Loading map: flexRigidTestMap.umap
+[2020.06.23-22.00.35:904][316]MapCheck: New page: Map Check
+[2020.06.23-22.00.35:904][316]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.35:928][316]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.00.35:963][316]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.00.35:964][316]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2020.06.23-22.00.35:964][316]LogFileHelpers: Loading map 'flexRigidTestMap' took 0.061
+[2020.06.23-22.00.37:215][459]LogTemp: Repeating last play command: Simulate
+[2020.06.23-22.00.37:223][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel.flexRigidTestMap' with GeneratedClass '/Game/Maps/flexRigidTestMap.flexRigidTestMap_C' with ClassGeneratedBy '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel.flexRigidTestMap'
+[2020.06.23-22.00.37:223][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.23-22.00.37:223][459]PIE: New page: SIE session: flexRigidTestMap (Jun 23, 2020, 2:00:37 PM)
+[2020.06.23-22.00.37:223][459]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_flexRigidTestMap
+[2020.06.23-22.00.37:241][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017641s)
+[2020.06.23-22.00.37:241][459]LogAIModule: Creating AISystem for world flexRigidTestMap
+[2020.06.23-22.00.37:241][459]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2020.06.23-22.00.37:241][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/flexRigidTestMap.flexRigidTestMap to /Game/Maps/UEDPIE_0_flexRigidTestMap.flexRigidTestMap (0.018510s)
+[2020.06.23-22.00.37:349][459]LogInit: XAudio2 using 'BenQ EX2780Q (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.23-22.00.37:361][459]LogInit: FAudioDevice initialized.
+[2020.06.23-22.00.37:389][459]LogLoad: Game class is 'MyGame_C'
+[2020.06.23-22.00.37:390][459]LogFlex: Display: Creating FLEX container: flexRigidContainer
+[2020.06.23-22.00.37:399][459]LogWorld: Bringing World /Game/Maps/UEDPIE_0_flexRigidTestMap.flexRigidTestMap up for play (max tick rate 0) at 2020.06.23-18.00.37
+[2020.06.23-22.00.37:399][459]LogWorld: Bringing up level for play took: 0.009162
+[2020.06.23-22.00.37:411][459]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-22.00.37:412][459]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-22.00.37:412][459]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_flexRigidTestMap 0.921
+[2020.06.23-22.00.37:413][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel.flexRigidTestMap' with GeneratedClass '/Game/Maps/flexRigidTestMap.flexRigidTestMap_C' with ClassGeneratedBy '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel.flexRigidTestMap'
+[2020.06.23-22.00.42:903][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.00.44:563][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel.flexRigidTestMap' with GeneratedClass '/Game/Maps/flexRigidTestMap.flexRigidTestMap_C' with ClassGeneratedBy '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel.flexRigidTestMap'
+[2020.06.23-22.00.44:563][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-22.00.44:596][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.23-22.00.44:596][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel.flexRigidTestMap' with GeneratedClass '/Game/Maps/flexRigidTestMap.flexRigidTestMap_C' with ClassGeneratedBy '/Game/Maps/flexRigidTestMap.flexRigidTestMap:PersistentLevel.flexRigidTestMap'
+[2020.06.23-22.00.44:617][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-22.00.44:618][192]LogFlex: Display: Destroying a FLEX system for..
+[2020.06.23-22.00.44:668][195]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.06.23-22.00.46:584][406]LogAIModule: Creating AISystem for world flexMixedGpuTestMap
+[2020.06.23-22.00.46:590][406]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/flexMixedGpuTestMap.flexMixedGpuTestMap
+[2020.06.23-22.00.46:613][406]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/flexMixedGpuTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.00.46:613][406]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.46:613][406]LoadErrors: New page: Loading map: flexMixedGpuTestMap.umap
+[2020.06.23-22.00.46:614][406]MapCheck: New page: Map Check
+[2020.06.23-22.00.46:614][406]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.46:640][406]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.00.46:677][406]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.00.46:677][406]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2020.06.23-22.00.46:677][406]LogFileHelpers: Loading map 'flexMixedGpuTestMap' took 0.065
+[2020.06.23-22.00.53:246][130]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.06.23-22.00.53:246][130]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.06.23-22.00.53:247][130]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.06.23-22.00.53:247][130]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 512X1024)
+[2020.06.23-22.00.53:247][130]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.06.23-22.00.53:247][130]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.06.23-22.00.53:312][130]LogAIModule: Creating AISystem for world flexFluidSurfaceHalfresTestMap
+[2020.06.23-22.00.53:317][130]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/FlexFluidSurface/flexFluidSurfaceHalfresTestMap.flexFluidSurfaceHalfresTestMap
+[2020.06.23-22.00.53:337][130]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/FlexFluidSurface/flexFluidSurfaceHalfresTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.00.53:337][130]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.53:338][130]LoadErrors: New page: Loading map: flexFluidSurfaceHalfresTestMap.umap
+[2020.06.23-22.00.53:340][130]MapCheck: New page: Map Check
+[2020.06.23-22.00.53:340][130]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.53:363][130]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.00.53:397][130]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.00.53:398][130]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2020.06.23-22.00.53:398][130]LogFileHelpers: Loading map 'flexFluidSurfaceHalfresTestMap' took 0.061
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 64X4)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 512X256)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.06.23-22.00.55:966][429]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.06.23-22.00.55:996][429]LogAIModule: Creating AISystem for world flexFluidSurfaceShadowTestMap
+[2020.06.23-22.00.56:001][429]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/FlexFluidSurface/flexFluidSurfaceShadowTestMap.flexFluidSurfaceShadowTestMap
+[2020.06.23-22.00.56:022][429]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/FlexFluidSurface/flexFluidSurfaceShadowTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.00.56:022][429]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.56:023][429]LoadErrors: New page: Loading map: flexFluidSurfaceShadowTestMap.umap
+[2020.06.23-22.00.56:023][429]MapCheck: New page: Map Check
+[2020.06.23-22.00.56:023][429]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.56:046][429]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.00.56:080][429]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.00.56:080][429]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2020.06.23-22.00.56:080][429]LogFileHelpers: Loading map 'flexFluidSurfaceShadowTestMap' took 0.058
+[2020.06.23-22.00.57:983][634]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.06.23-22.00.57:983][634]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.06.23-22.00.57:983][634]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.06.23-22.00.57:983][634]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 512X1024)
+[2020.06.23-22.00.57:983][634]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.06.23-22.00.57:983][634]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.06.23-22.00.58:049][634]LogAIModule: Creating AISystem for world flexFluidSurfaceTranslucentExtTestMap
+[2020.06.23-22.00.58:055][634]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/FlexFluidSurface/flexFluidSurfaceTranslucentExtTestMap.flexFluidSurfaceTranslucentExtTestMap
+[2020.06.23-22.00.58:079][634]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/FlexFluidSurface/flexFluidSurfaceTranslucentExtTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.00.58:079][634]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.58:079][634]LoadErrors: New page: Loading map: flexFluidSurfaceTranslucentExtTestMap.umap
+[2020.06.23-22.00.58:080][634]MapCheck: New page: Map Check
+[2020.06.23-22.00.58:080][634]LightingResults: New page: Lighting Build
+[2020.06.23-22.00.58:102][634]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.00.58:138][634]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.00.58:138][634]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2020.06.23-22.00.58:138][634]LogFileHelpers: Loading map 'flexFluidSurfaceTranslucentExtTestMap' took 0.059
+[2020.06.23-22.01.00:464][901]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.06.23-22.01.00:465][901]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.06.23-22.01.00:465][901]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.06.23-22.01.00:465][901]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.06.23-22.01.00:465][901]LogMaterial: Display: Missing cached shader map for material flexSurfaceMaterialMultColorPrev, compiling. 
+[2020.06.23-22.01.00:588][901]LogMaterial: Display: Missing cached shader map for material flexSurfaceMaterialDarkShiny, compiling. 
+[2020.06.23-22.01.00:620][901]LogShaderCompilers: Display: Shaders left to compile 235
+[2020.06.23-22.01.00:620][901]LogShaderCompilers: Display: Shaders left to compile 225
+[2020.06.23-22.01.00:620][901]LogShaderCompilers: Display: Shaders left to compile 215
+[2020.06.23-22.01.00:620][901]LogShaderCompilers: Display: Shaders left to compile 205
+[2020.06.23-22.01.00:620][901]LogShaderCompilers: Display: Shaders left to compile 195
+[2020.06.23-22.01.00:620][901]LogShaderCompilers: Display: Shaders left to compile 185
+[2020.06.23-22.01.00:620][901]LogShaderCompilers: Display: Shaders left to compile 175
+[2020.06.23-22.01.00:620][901]LogShaderCompilers: Display: Shaders left to compile 165
+[2020.06.23-22.01.00:625][901]LogAIModule: Creating AISystem for world flexFluidSurfaceMultColorTestMap
+[2020.06.23-22.01.00:629][901]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap
+[2020.06.23-22.01.00:652][901]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.01.00:652][901]LightingResults: New page: Lighting Build
+[2020.06.23-22.01.00:652][901]LoadErrors: New page: Loading map: flexFluidSurfaceMultColorTestMap.umap
+[2020.06.23-22.01.00:653][901]MapCheck: New page: Map Check
+[2020.06.23-22.01.00:653][901]LightingResults: New page: Lighting Build
+[2020.06.23-22.01.00:675][901]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.01.00:710][901]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.01.00:710][901]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2020.06.23-22.01.00:710][901]LogFileHelpers: Loading map 'flexFluidSurfaceMultColorTestMap' took 0.058
+[2020.06.23-22.01.03:025][128]LogShaderCompilers: Display: Shaders left to compile 192
+[2020.06.23-22.01.03:204][149]LogTemp: Repeating last play command: Simulate
+[2020.06.23-22.01.03:219][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel.flexFluidSurfaceMultColorTestMap' with GeneratedClass '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap_C' with ClassGeneratedBy '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel.flexFluidSurfaceMultColorTestMap'
+[2020.06.23-22.01.03:220][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.23-22.01.03:220][149]PIE: New page: SIE session: flexFluidSurfaceMultColorTestMap (Jun 23, 2020, 2:01:03 PM)
+[2020.06.23-22.01.03:220][149]LogPlayLevel: Creating play world package: /Game/Maps/FlexFluidSurface/UEDPIE_0_flexFluidSurfaceMultColorTestMap
+[2020.06.23-22.01.03:226][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006280s)
+[2020.06.23-22.01.03:227][149]LogAIModule: Creating AISystem for world flexFluidSurfaceMultColorTestMap
+[2020.06.23-22.01.03:227][149]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2020.06.23-22.01.03:227][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap to /Game/Maps/FlexFluidSurface/UEDPIE_0_flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap (0.007406s)
+[2020.06.23-22.01.03:380][149]LogShaderCompilers: Display: Shaders left to compile 182
+[2020.06.23-22.01.03:380][149]LogShaderCompilers: Display: Shaders left to compile 172
+[2020.06.23-22.01.03:381][149]LogInit: XAudio2 using 'BenQ EX2780Q (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.23-22.01.03:403][149]LogInit: FAudioDevice initialized.
+[2020.06.23-22.01.03:441][149]LogLoad: Game class is 'MyGame_C'
+[2020.06.23-22.01.03:442][149]LogWorld: Bringing World /Game/Maps/FlexFluidSurface/UEDPIE_0_flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap up for play (max tick rate 0) at 2020.06.23-18.01.03
+[2020.06.23-22.01.03:443][149]LogFlex: Display: Creating FLEX container: flexSurfaceContainerMultColor
+[2020.06.23-22.01.03:472][149]LogWorld: Bringing up level for play took: 0.029976
+[2020.06.23-22.01.03:486][149]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-22.01.03:486][149]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.23-22.01.03:487][149]PIE: Play in editor start time for /Game/Maps/FlexFluidSurface/UEDPIE_0_flexFluidSurfaceMultColorTestMap 0.995
+[2020.06.23-22.01.03:490][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel.flexFluidSurfaceMultColorTestMap' with GeneratedClass '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap_C' with ClassGeneratedBy '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel.flexFluidSurfaceMultColorTestMap'
+[2020.06.23-22.01.03:773][162]LogShaderCompilers: Display: Shaders left to compile 162
+[2020.06.23-22.01.03:959][181]LogShaderCompilers: Display: Shaders left to compile 152
+[2020.06.23-22.01.05:068][291]LogShaderCompilers: Display: Shaders left to compile 142
+[2020.06.23-22.01.05:725][352]LogShaderCompilers: Display: Shaders left to compile 132
+[2020.06.23-22.01.06:166][391]LogShaderCompilers: Display: Shaders left to compile 122
+[2020.06.23-22.01.06:516][422]LogShaderCompilers: Display: Shaders left to compile 112
+[2020.06.23-22.01.07:393][502]LogShaderCompilers: Display: Shaders left to compile 102
+[2020.06.23-22.01.08:364][589]LogShaderCompilers: Display: Shaders left to compile 92
+[2020.06.23-22.01.08:594][608]LogShaderCompilers: Display: Shaders left to compile 82
+[2020.06.23-22.01.09:090][648]LogShaderCompilers: Display: Shaders left to compile 72
+[2020.06.23-22.01.10:303][742]LogShaderCompilers: Display: Shaders left to compile 62
+[2020.06.23-22.01.11:083][798]LogShaderCompilers: Display: Shaders left to compile 52
+[2020.06.23-22.01.11:083][798]LogShaderCompilers: Display: Shaders left to compile 42
+[2020.06.23-22.01.12:078][866]LogShaderCompilers: Display: Shaders left to compile 32
+[2020.06.23-22.01.13:768][977]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.06.23-22.01.14:367][ 15]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.06.23-22.01.15:266][ 74]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.06.23-22.02.10:416][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.06.23-22.02.40:413][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.02.43:781][736]Cmd: SELECT NONE
+[2020.06.23-22.02.44:511][794]Cmd: SELECT NONE
+[2020.06.23-22.02.46:236][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel.flexFluidSurfaceMultColorTestMap' with GeneratedClass '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap_C' with ClassGeneratedBy '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel.flexFluidSurfaceMultColorTestMap'
+[2020.06.23-22.02.46:236][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-22.02.46:268][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.23-22.02.46:269][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel.flexFluidSurfaceMultColorTestMap' with GeneratedClass '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap_C' with ClassGeneratedBy '/Game/Maps/FlexFluidSurface/flexFluidSurfaceMultColorTestMap.flexFluidSurfaceMultColorTestMap:PersistentLevel.flexFluidSurfaceMultColorTestMap'
+[2020.06.23-22.02.46:290][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-22.02.46:291][953]LogFlex: Display: Destroying a FLEX system for..
+[2020.06.23-22.02.46:336][958]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.06.23-22.02.50:838][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.04.08:987][768]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.06.23-22.04.08:995][768]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.06.23-22.04.09:018][768]Cmd: MAP LOAD FILE="../../../VMFlexProject/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-22.04.09:019][768]LightingResults: New page: Lighting Build
+[2020.06.23-22.04.09:019][768]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2020.06.23-22.04.09:019][768]MapCheck: New page: Map Check
+[2020.06.23-22.04.09:020][768]LightingResults: New page: Lighting Build
+[2020.06.23-22.04.09:047][768]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-22.04.09:082][768]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-22.04.09:082][768]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2020.06.23-22.04.09:082][768]LogFileHelpers: Loading map 'MotionControllerMap' took 0.065
+[2020.06.23-22.04.14:784][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.04.21:307][143]LogActorFactory: Actor Factory created 1M_Cube_Chamfer
+[2020.06.23-22.04.21:987][221]LogActorFactory: Actor Factory created 1M_Cube_Chamfer
+[2020.06.23-22.04.22:987][319]Cmd: DELETE
+[2020.06.23-22.04.22:987][319]Cmd: ACTOR DELETE
+[2020.06.23-22.04.22:993][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-22.04.23:013][319]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.06.23-22.04.23:813][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.04.30:414][182]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/1M_Cube_Chamfer_2.1M_Cube_Chamfer_2
+[2020.06.23-22.04.30:597][182]LogTexture: Display: Building textures: SimplygonLogo (AutoDXT, 128X128)
+[2020.06.23-22.04.30:819][182]LogSlate: Took 0.000821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.23-22.04.32:587][304]LogRenderer: Reallocating scene render targets to support 1912x1284 Format 10 NumSamples 1 (Frame:123).
+[2020.06.23-22.04.43:983][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.04.45:760][166]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.23-22.04.45:768][166]LogSlate: Window '1M_Cube_Chamfer_2*' being destroyed
+[2020.06.23-22.04.53:348][975]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.06.23-22.04.53:367][976]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.06.23-22.04.53:454][977]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.06.23-22.04.53:460][977]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.06.23-22.04.59:766][522]LogActorFactory: Actor Factory created flexBox30
+[2020.06.23-22.05.00:383][589]LogActorFactory: Actor Factory created flexBox30
+[2020.06.23-22.05.02:134][737]Cmd: TRANSACTION UNDO
+[2020.06.23-22.05.02:134][737]LogEditorTransaction: Undo Move Actors
+[2020.06.23-22.05.02:764][780]Cmd: TRANSACTION UNDO
+[2020.06.23-22.05.02:765][780]LogEditorTransaction: Undo Create Actors
+[2020.06.23-22.05.03:647][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.05.13:340][906]LogActorFactory: Actor Factory created flexBoxDeform
+[2020.06.23-22.05.14:030][979]LogActorFactory: Actor Factory created flexBoxDeform
+[2020.06.23-22.05.16:949][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.05.17:126][244]LogAssetEditorManager: Opening Asset editor for FlexStaticMesh /Game/TestPackages/Flex/flexBoxDeform.flexBoxDeform
+[2020.06.23-22.05.25:205][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.05.37:533][752]LogStaticMesh: Building static mesh flexBoxDeform...
+[2020.06.23-22.05.37:533][752]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.23-22.05.37:533][752]LogStaticMesh: Built static mesh [0.00s] /Game/TestPackages/Flex/flexBoxDeform.flexBoxDeform
+[2020.06.23-22.05.37:534][752]LogFlex: Display: Voxelizing Flex rigid body
+
+[2020.06.23-22.05.37:545][752]LogFlex: Display: Created a Flex soft body with 40 Particles, 0 Springs, 4 Clusters
+
+[2020.06.23-22.05.41:565][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.05.42:319][ 77]LogFlex: Display: Voxelizing Flex rigid body
+
+[2020.06.23-22.05.50:240][ 77]LogFlex: Display: Created a Flex soft body with 25802 Particles, 0 Springs, 9 Clusters
+
+[2020.06.23-22.06.03:672][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.23-22.06.05:656][829]LogFlex: Display: Voxelizing Flex rigid body
+
+[2020.06.23-22.06.13:390][829]LogFlex: Display: Created a Flex soft body with 25802 Particles, 0 Springs, 237 Clusters
+
+[2020.06.23-22.06.20:766][322]LogFlex: Display: Voxelizing Flex rigid body
+
+[2020.06.23-22.06.28:408][322]LogFlex: Display: Created a Flex soft body with 25802 Particles, 0 Springs, 237 Clusters
+
+[2020.06.23-22.06.36:740][888]LogFlex: Display: Voxelizing Flex rigid body
+
+[2020.06.23-22.06.44:405][888]LogFlex: Display: Created a Flex soft body with 25802 Particles, 0 Springs, 237 Clusters
+
+[2020.06.23-22.06.52:346][528]LogFlex: Display: Voxelizing Flex rigid body
+
+[2020.06.23-22.06.59:998][528]LogFlex: Display: Created a Flex soft body with 25802 Particles, 0 Springs, 237 Clusters
+
+[2020.06.23-22.07.04:697][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.23-22.07.13:245][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.23-22.07.15:377][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.23-22.07.15:412][389]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.23-22.07.58:924][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/flexDeformContainer" FILE="../../../VMFlexProject/Content/Blueprints/flexDeformContainer.uasset" SILENT=true
+[2020.06.23-22.07.58:926][389]LogSavePackage: Moving '../../../VMFlexProject/Saved/flexDeformContainer7C6B61BA4B9A68AE278D7DBB8C22B87F.tmp' to '../../../VMFlexProject/Content/Blueprints/flexDeformContainer.uasset'
+[2020.06.23-22.08.00:282][389]LogSlate: Window 'Save Asset As' being destroyed
